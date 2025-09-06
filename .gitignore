@@ -1,0 +1,43 @@
+# Project-specific folders
+data/
+cred/
+faiss_index/
+venv/
+
+# AWS credentials & environment files
+.aws/
+.env
+.env.*
+*.pem
+*.key
+*.awssecret
+secrets.*
+token.*
+
+# Streamlit cache and config
+.streamlit/
+.streamlit/config.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.temp
+
+# OS system files
+.DS_Store
+Thumbs.db
+desktop.ini
