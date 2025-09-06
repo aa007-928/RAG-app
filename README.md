@@ -39,5 +39,8 @@ Built with **LangChain**, **FAISS**, **AWS Bedrock**, and **Streamlit**, this ap
         streamlit run app4.py
     ```
 
+---
+
+![Demo](demo-pic.jpg)
 
 
