@@ -41,6 +41,8 @@ Built with **LangChain**, **FAISS**, **AWS Bedrock**, and **Streamlit**, this ap
 
 ---
 
+## 📸 Demo
+
 ![Demo](demo-pic.jpg)
 
 
